@@ -1,1 +1,1 @@
-web: ./target/release/circux
+web: ./target/release/portfolio
